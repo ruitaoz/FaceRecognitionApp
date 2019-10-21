@@ -1,1 +1,1 @@
-Imput the img-link to detect the face on the image.
+Input the img-link to detect the face on the image.
